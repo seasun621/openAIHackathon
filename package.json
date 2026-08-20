@@ -1,7 +1,7 @@
 {
-  "name": "super-swing",
+  "name": "swing-beat-prototype",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host=127.0.0.1 --port=43127",
@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dimforge/rapier3d-compat": "latest",
     "three": "latest"
   },
   "devDependencies": {
