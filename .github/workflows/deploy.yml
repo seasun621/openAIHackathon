@@ -1,4 +1,4 @@
-name: Deploy SUPER SWING to GitHub Pages
+name: Deploy Swing Blast Core to GitHub Pages
 
 on:
   push:

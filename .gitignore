@@ -2,9 +2,18 @@ node_modules/
 dist/
 .vite/
 coverage/
-performance-logs/
+/performance-logs/
 *.log
 .env*.local
 .DS_Store
 Thumbs.db
-fonts/*.zip
+
+# Local reference/output material is intentionally outside the reusable core.
+/docs/
+/output/
+/tmp/
+/fonts/
+/*.pdf
+
+# GitHub Desktop created a second checkout inside this repository.
+/openAIHackathon/
