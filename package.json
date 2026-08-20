@@ -1,5 +1,5 @@
 {
-  "name": "swing-blast-core",
+  "name": "swing-beat-prototype",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dimforge/rapier3d-compat": "latest",
     "three": "latest"
   },
   "devDependencies": {
